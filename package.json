@@ -27,6 +27,8 @@
   "homepage": "https://github.com/fdnd-task/proof-of-concept#readme",
   "dependencies": {
     "express": "^5.0.1",
-    "liquidjs": "^10.21.0"
+    "liquid": "^5.1.1",
+    "liquidjs": "^10.21.0",
+    "node-fetch": "^3.3.2"
   }
 }
